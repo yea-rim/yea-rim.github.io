@@ -128,7 +128,7 @@ defaults:
       theme_color:     rgb(148,146,196)
       accent_image:
         background:    rgb(148,146,196)
-        overlay:       true
+        overlay:       false
 
   # Don't include documents in assets in the sitemap
   - scope:
