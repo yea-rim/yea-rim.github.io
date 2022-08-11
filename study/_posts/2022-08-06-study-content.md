@@ -1,17 +1,13 @@
 ---
 layout: post
-title: github page 구축
+title: JSTL 개념 정리
 description: >
-  블로그 구축 성공.
+  JSTL 공부
 sitemap: false
 hide_last_modified: true
 ---
 
-이렇게도 잘 될까...
-
-> 이건 인용
-
-## System888Service.java
+### JSTL란?
 
 @Service(value = "system888Service")
 public class System888Service {}
