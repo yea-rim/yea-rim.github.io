@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [이클립스] Dynamic Web Module __ requires Java __ or newer
+title: Dynamic Web Module __ requires Java __ or newer
 description: >
-  error
+  Error Log
 sitemap: false
 hide_last_modified: true
 ---
