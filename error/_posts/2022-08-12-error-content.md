@@ -14,3 +14,6 @@ Version이 맞지 않아 Server에 add/remove가 불가능했다.
 
 Version을 항상 확인하자.
 그리고 Clean을 습관화 하자.
+
+Properties에 Maven Java Version이 여전히 11로 설정된다.
+추가 해결이 필요하다.
