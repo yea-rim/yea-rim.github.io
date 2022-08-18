@@ -9,7 +9,7 @@ hide_last_modified: true
 
 ### Eclipse
 
-Fn + H / query * : 검색
+Fn + H / query * : 검색<hr>
 Fn + Shift + R : 파일명 찾기
 Alt + Shift + S : Getter/Setter(R)
 
