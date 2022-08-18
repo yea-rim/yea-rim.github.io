@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 단축키 정리
+title: 정리
 description: >
-  사용하는 단축키 정리
+  사용하는 단축키 정리 / 짚어주신 부분 정리
 sitemap: false
 hide_last_modified: true
 ---
