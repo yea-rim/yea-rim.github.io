@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Tomcat 연결에 오류가 뜬다.
+Tomcat 연결에 오류가 떴다.
 
 ``Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.``
 
@@ -21,7 +21,7 @@ root context에 잘못 넣었나 찾아봤지만 아니었다.
 
 ``resultType=""``
 
-아니나 다를까 resultType 경로를 잘못 적었다.
+resultType 경로를 잘못 적었다.
 잘못 적어서 경로를 찾지 못했다는 오류가 뜬 것이다.
 
 ### 경로 / 어노테이션 제대로 확인하기
