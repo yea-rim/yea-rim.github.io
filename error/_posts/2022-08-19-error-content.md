@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이클립스 오류
+title: sql xml 파일 경로 오류
 description: >
   Error Log
 sitemap: false
