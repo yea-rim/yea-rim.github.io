@@ -23,3 +23,12 @@ insert로 정할 경우 추적하기 힘들다
 
 #### 2
 Service, Mapper, Controller, sql.xml 메소드명 통일하기
+
+``Oprtn001Mapper.java``
+``public List<CompanyVO> selectPlanCodeGrpList(DataSourceRequest request);``
+
+``Oprtn001Service.java``
+``public DataSourceResult selectPlanCodeGrpList(DataSourceRequest request) {``
+
+``Oprtn001Controller.java``
+``public @ResponseBody DataSourceResult selectPlanCodeGrpList(@RequestBody DataSourceRequest request) {``
