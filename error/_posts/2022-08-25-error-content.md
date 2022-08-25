@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java.sql.SQLException:부적합한 열 인덱스
+title: ERROR ORA-00909 ORA-12899
 description: >
   Error Log
 sitemap: false
