@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @RequestMapping 경로 오류
+title: RequestMapping 경로 오류
 description: >
   Error Log
 sitemap: false
