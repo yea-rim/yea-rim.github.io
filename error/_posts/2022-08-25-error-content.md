@@ -14,7 +14,7 @@ hide_last_modified: true
 
 문제는 sql.xml에 있었다.
 
-``AND A.PLAN_YM LIKE CONCAT(#{data.planYm, jdbcType=VARCHAR}, '%')``
+``AND A.PLAN_YM LIKE CONCAT(#{data.planYm, jdbcType=VARCHAR}, '%')`` [ERROR]
 
 이렇게 써야 하는 것을 아래처럼 적어서 오류가 났다.
 
