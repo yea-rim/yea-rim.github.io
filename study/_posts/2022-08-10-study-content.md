@@ -13,6 +13,7 @@ Kendo IU는 jQuery용 강력한 데이터 시각과 및 편집 구성 요소다.
 
 그리드는 다양한 데이터 소스에 바인딩할 수 있으며 페이징, 정렬, 필터링, 그룹화 등의 공통 기능이 내장되어 있다. Aggregate, 고정 열, 가상화 및 무한 스크롤, 상태 관리, SingnalR Hub 바인딩 등과 같은 고급 기능이 포함된다.
 
+``
 <div id="example">
     <div id="grid"></div>
     <script>
@@ -55,5 +56,6 @@ Kendo IU는 jQuery용 강력한 데이터 시각과 및 편집 구성 요소다.
         });
     </script>
 </div>
+``
 
 출처 : https://demos.telerik.com/jsp-ui/grid/basic-usage
