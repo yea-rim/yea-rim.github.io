@@ -13,8 +13,9 @@ hide_last_modified: true
 
 
 planYear의 getter가 VO에 없어서 생긴 문제인데,
-planYear와 planMonth를 CONCAT으로 연결해 planYM으로 받아오기 때문에 무심코 누락했다.
 
+
+planYear와 planMonth를 CONCAT으로 연결해 planYM으로 받아오기 때문에 무심코 누락했다.
 
 
 getter setter까지 넣어주고 나니 planYM에 NULL 값이 들어갔다는 오류가 났다.
