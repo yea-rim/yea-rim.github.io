@@ -25,7 +25,7 @@ hide_last_modified: true
 한참 보다가 문제를 발견했다.
 
 
-xml 파일 중 parameterType의 파일명 소문자를 대문자로 오타냈다.
+xml 파일 중 parameterType의 파일명 소문자를 대문자로 오타낸 것을...
 
 정말 한참 찾았다...
 
