@@ -58,4 +58,20 @@ Kendo IU는 jQuery용 강력한 데이터 시각과 및 편집 구성 요소다.
 </div>
 ``
 
+
+### Kendo UI 오류 기록
+
+* 1. column에 마지막 쉼표는 무조건 제거해야 한다. 
+
+제거하지 않으면 오류가 발생하거나, grid가 깨지는 경우가 있다.
+
+
+* 2. 체크 박스
+
+
+* 3. 
+
+
+
+
 출처 : https://demos.telerik.com/jsp-ui/grid/basic-usage
