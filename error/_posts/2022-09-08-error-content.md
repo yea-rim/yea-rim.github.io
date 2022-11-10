@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ORA-00001: There is no getter for property named
+title:  ORA-00001 There is no getter for property named
 description: >
   Error Log
 sitemap: false

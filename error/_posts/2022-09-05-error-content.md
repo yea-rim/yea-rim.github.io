@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ORA-00001: 무결성 제약 조건에 위배됩니다
+title:  ORA-00001 무결성 제약 조건에 위배됩니다
 description: >
   Error Log
 sitemap: false
